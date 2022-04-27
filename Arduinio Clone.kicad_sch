@@ -1,5 +1,22 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 28799286-1f21-4421-b13f-4230c2779ada)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "Battery Powered Arduino Nano")
+    (date "2022-04-27")
+    (rev "1")
+    (company "GM Industries")
+    (comment 1 "Designe by Giddie")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
