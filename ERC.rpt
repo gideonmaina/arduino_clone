@@ -1,0 +1,13 @@
+ERC report (2022 May 11, Wednesday 10:50:42, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: The current configuration does not include the library 'GM_LIbrary'.
+    ; Severity: warning
+    @(53.34 mm, 57.15 mm): Symbol U1 [DS1337_GM]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(36.83 mm, 113.03 mm): Symbol U2 [24LC1025] Pin 4 [GND, Power input, Line]
+
+***** Sheet /Connectors/
+
+ ** ERC messages: 2  Errors 1  Warnings 1
