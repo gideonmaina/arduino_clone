@@ -15,7 +15,7 @@
 
   (layers
     (0 "F.Cu" signal)
-    (31 "B.Cu" signal)
+    (31 "B.Cu" power)
     (32 "B.Adhes" user "B.Adhesive")
     (33 "F.Adhes" user "F.Adhesive")
     (34 "B.Paste" user)
@@ -1045,6 +1045,9 @@
   (gr_circle (center 96.52 101.6) (end 96.52 102.87) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e564858b-0806-4df7-8ed7-a3765cdb0824))
   (gr_circle (center 142.24 81.28) (end 142.24 82.55) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp f0772f93-1a31-47c6-b4fe-640377bbac95))
   (gr_arc (start 144.780001 101.600001) (mid 144.036052 103.396052) (end 142.240001 104.140001) (layer "Edge.Cuts") (width 0.1) (tstamp f7844a46-383c-442a-b994-d16f56351445))
+  (gr_text "Designed by Giddie\n" (at 124.46 92.71) (layer "B.SilkS") (tstamp 43260725-9667-41e1-a6f8-84a05e43bbfa)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
 
   (segment (start 134.4508 89.535) (end 134.93 89.535) (width 0.3) (layer "F.Cu") (net 1) (tstamp 0b9f21ed-3d41-4f23-ae45-74117a5f3153))
   (segment (start 132.6503 100.3997) (end 135.26 97.79) (width 0.3) (layer "F.Cu") (net 1) (tstamp 0cc9bf07-55b9-458f-b8aa-41b2f51fa940))
